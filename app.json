@@ -7,5 +7,5 @@
   "repository": "https://github.com/rosiealicerobson/intro-to-heroku",
   "addons":
     "heroku-postgresql"
-  ]
-}
+  
+
